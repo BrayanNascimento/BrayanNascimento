@@ -2,8 +2,7 @@
 
 - 🌱 I’m currently learning  - HTML/ CSS/ Kotlin
 - 💬 Ask me about ...
-- ⚡ Fato surpreendente: aplicativos móveis são usados mais do que sit sites😮
-
+- ⚡ Amazing fact: Mobile apps are used more than websites. 😮
 
  <div>
   <a href="https://github.com/BrayanNascimento">
