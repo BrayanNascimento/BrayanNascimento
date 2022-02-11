@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning  - HTML/ CSS/ JavaSceipt
+- 🌱 I’m currently learning  - HTML/ CSS/ JavaScript
 - 💬 Ask me about ...
 - ⚡ Amazing fact: Mobile apps are used more than websites. 😮
 
