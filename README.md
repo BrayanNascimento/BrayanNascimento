@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning  - HTML/ CSS/ JavaScript
-- 💬 Ask me about ...
+- 💬 Ask me about technology.
 - ⚡ Amazing fact: Mobile apps are used more than websites. 😮
 
  <div>
